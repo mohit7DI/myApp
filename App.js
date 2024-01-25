@@ -10,6 +10,7 @@ import {PersistGate} from 'redux-persist/integration/react';
 import {StatusBar} from 'react-native';
 import colors from './src/utils/colors';
 
+
 const Stack = createNativeStackNavigator();
 
 function App() {
